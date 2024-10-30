@@ -8,8 +8,6 @@ DONDE TRABAJARÁ TODOS LOS LABS.
 
 LAB 3-0: Crear un Cluster AWS EMR en Amazon para trabajar todos los laboratorios.
 
-Fecha sugerida de terminación de este lab antes del 10 de mayo 2024.
-
 1. trabajo individual, cada estudiante deberá responder por estas actividades.
 
 2. seguir los lineamientos del github:

@@ -1,0 +1,8 @@
+ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2024-2
+
+Lab 3-2 - Hive y SparkSQL
+
+realice la reproducción y entendimiento de los ejercicios propuestos en:
+
+1. 03-hive-sparksql
+2. Realice la consulta de las tablas creadas en el numeral 1. con SparkSQL desde un notebook que cree para este punto 2.

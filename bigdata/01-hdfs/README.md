@@ -37,7 +37,7 @@ verifique que haya clonado el repo de la materia previamente:
 
 Se asume que tiene los datos LOCALES se encuentran en /datasets en el gateway
 También están en este github, y por terminal debería copiarlos por SSH/SCP al servidor Gateway por la VPN.
-También están en Amazon S3:      s3://st0263datasets/datasets
+También están en Amazon S3:      s3://emontoyadatasets/datasets
 
     user@master$ hdfs dfs -mkdir /user/hadoop/datasets
     user@master$ hdfs dfs -mkdir /user/hadoop/datasets/gutenberg-small
@@ -48,7 +48,7 @@ También están en Amazon S3:      s3://st0263datasets/datasets
 
 * archivos en Amazon s3:
 
-    user@master$ hadoop distcp s3://st0263datasets/datasets/airlines.csv /tmp/
+    user@master$ hadoop distcp s3://emontoyadatasets/datasets/airlines.csv /tmp/
 
 * copia recursiva de datos
     

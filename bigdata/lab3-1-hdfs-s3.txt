@@ -2,8 +2,6 @@ ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2024-2
 
 LAB 3-1: GESTIÓN DE ARCHIVOS EN HDFS Y S3 PARA BIG DATA
 
-Fecha sugerida de terminación de este lab antes del 17 de mayo 2024.
-
 1. trabajo individual, cada estudiante deberá responder por estas actividades.
 
 2. seguir los lineamientos del github:
